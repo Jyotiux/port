@@ -37,12 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+        I build web applications that feel alive—blending interactive interfaces, real-time data, and robust backends into cohesive experiences. From dynamic front-end designs to secure server logic, I enjoy connecting every piece of the stack to create scalable, elegant solutions. Every project is a playground to experiment, optimize, and bring ideas to life on the web.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
